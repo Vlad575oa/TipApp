@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE860F5329A3748900E6CB80 /* TipAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE860F5229A3748900E6CB80 /* TipAppApp.swift */; };
+		CE860F5329A3748900E6CB80 /* TipApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE860F5229A3748900E6CB80 /* TipApp.swift */; };
 		CE860F5529A3748900E6CB80 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE860F5429A3748900E6CB80 /* ContentView.swift */; };
 		CE860F5729A3748A00E6CB80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE860F5629A3748A00E6CB80 /* Assets.xcassets */; };
 		CE860F5A29A3748A00E6CB80 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE860F5929A3748A00E6CB80 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		CE860F4F29A3748900E6CB80 /* TipApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE860F5229A3748900E6CB80 /* TipAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipAppApp.swift; sourceTree = "<group>"; };
+		CE860F5229A3748900E6CB80 /* TipApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipApp.swift; sourceTree = "<group>"; };
 		CE860F5429A3748900E6CB80 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE860F5629A3748A00E6CB80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE860F5929A3748A00E6CB80 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		CE860F5129A3748900E6CB80 /* TipApp */ = {
 			isa = PBXGroup;
 			children = (
-				CE860F5229A3748900E6CB80 /* TipAppApp.swift */,
+				CE860F5229A3748900E6CB80 /* TipApp.swift */,
 				CE860F5429A3748900E6CB80 /* ContentView.swift */,
 				CE860F5629A3748A00E6CB80 /* Assets.xcassets */,
 				CE860F5829A3748A00E6CB80 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE860F5529A3748900E6CB80 /* ContentView.swift in Sources */,
-				CE860F5329A3748900E6CB80 /* TipAppApp.swift in Sources */,
+				CE860F5329A3748900E6CB80 /* TipApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
